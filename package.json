@@ -2,7 +2,7 @@
   "name": "tictactoe-react",
   "version": "1.0.0",
   "description": "Simple Tic-Tac-Toe teaching example with React 18",
-  "homepage": "https://kimsanborn.github.io/TTT-vs-Bot",
+  "homepage": "https://KimsanBorn.github.io/TTT-vs-Bot",
   "scripts": {
     "start": "parcel public/index.html",
     "build": "parcel build public/index.html --public-url /tttjs/",
